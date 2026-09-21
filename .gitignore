@@ -1,0 +1,8 @@
+# Python & Jupyter Bytecode/Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
